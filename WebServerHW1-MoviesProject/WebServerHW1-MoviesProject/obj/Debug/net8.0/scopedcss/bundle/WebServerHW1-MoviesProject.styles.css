@@ -1,0 +1,49 @@
+/* _content/WebServerHW1-MoviesProject/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-ijap0h86yd] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-ijap0h86yd] {
+  color: #0077cc;
+}
+
+.btn-primary[b-ijap0h86yd] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-ijap0h86yd], .nav-pills .show > .nav-link[b-ijap0h86yd] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-ijap0h86yd] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-ijap0h86yd] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-ijap0h86yd] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-ijap0h86yd] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-ijap0h86yd] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

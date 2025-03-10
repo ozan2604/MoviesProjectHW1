@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebServerHW1-MoviesProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddaabc8a5f94765ab59a2676e5f577500d7be231")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4158c0bb2ad81956071dc36a2588ffa6210e4fd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebServerHW1-MoviesProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebServerHW1-MoviesProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

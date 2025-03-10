@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|c:\\users\\ozan\\desktop\\moviesprojecthw1\\webserverhw1-moviesproject\\webserverhw1-moviesproject\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|solutionrelative:webserverhw1-moviesproject\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|c:\\users\\ozan\\desktop\\moviesprojecthw1\\webserverhw1-moviesproject\\webserverhw1-moviesproject\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|solutionrelative:webserverhw1-moviesproject\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|c:\\users\\ozan\\desktop\\moviesprojecthw1\\webserverhw1-moviesproject\\webserverhw1-moviesproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|solutionrelative:webserverhw1-moviesproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|c:\\users\\ozan\\desktop\\moviesprojecthw1\\webserverhw1-moviesproject\\webserverhw1-moviesproject\\models\\concrete\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|solutionrelative:webserverhw1-moviesproject\\models\\concrete\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|c:\\users\\ozan\\desktop\\moviesprojecthw1\\webserverhw1-moviesproject\\webserverhw1-moviesproject\\models\\concrete\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|solutionrelative:webserverhw1-moviesproject\\models\\concrete\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|c:\\users\\ozan\\desktop\\moviesprojecthw1\\webserverhw1-moviesproject\\webserverhw1-moviesproject\\models\\concrete\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|solutionrelative:webserverhw1-moviesproject\\models\\concrete\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|c:\\users\\ozan\\desktop\\moviesprojecthw1\\webserverhw1-moviesproject\\webserverhw1-moviesproject\\models\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151A0AF6-86BF-4FC8-A8F1-7E16CAFC5799}|WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject.csproj|solutionrelative:webserverhw1-moviesproject\\models\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +47,92 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebServerHW1-MoviesProject\\Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "WebServerHW1-MoviesProject\\Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T18:46:10.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebServerHW1-MoviesProject\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebServerHW1-MoviesProject\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:38:37.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "WebServerHW1-MoviesProject\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "WebServerHW1-MoviesProject\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAcwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:38:15.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Models\\Concrete\\Cart.cs",
+              "RelativeDocumentMoniker": "WebServerHW1-MoviesProject\\Models\\Concrete\\Cart.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Models\\Concrete\\Cart.cs",
+              "RelativeToolTip": "WebServerHW1-MoviesProject\\Models\\Concrete\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:32:59.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Models\\Concrete\\User.cs",
+              "RelativeDocumentMoniker": "WebServerHW1-MoviesProject\\Models\\Concrete\\User.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Models\\Concrete\\User.cs",
+              "RelativeToolTip": "WebServerHW1-MoviesProject\\Models\\Concrete\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:26:29.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Models\\Concrete\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebServerHW1-MoviesProject\\Models\\Concrete\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Models\\Concrete\\BaseEntity.cs",
+              "RelativeToolTip": "WebServerHW1-MoviesProject\\Models\\Concrete\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:21:08.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Models\\Concrete\\Movie.cs",
+              "RelativeDocumentMoniker": "WebServerHW1-MoviesProject\\Models\\Concrete\\Movie.cs",
+              "ToolTip": "C:\\Users\\Ozan\\Desktop\\MoviesProjectHW1\\WebServerHW1-MoviesProject\\WebServerHW1-MoviesProject\\Models\\Concrete\\Movie.cs",
+              "RelativeToolTip": "WebServerHW1-MoviesProject\\Models\\Concrete\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:20:25.583Z"
             }
           ]
         }
